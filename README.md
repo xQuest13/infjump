@@ -1,0 +1,2 @@
+# infjump
+İnf jump script
